@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: TranslateClient
+Bundle-SymbolicName: TranslateClient
+Bundle-Version: 1.0.0
+Bundle-Activator: translateclient.Activator
+Bundle-Vendor: com.fxb
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: TranslateClient
+Import-Package: org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy

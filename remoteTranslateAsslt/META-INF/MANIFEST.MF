@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: RemoteTranslateAsslt
+Bundle-SymbolicName: remoteTranslateAsslt
+Bundle-Version: 1.0.0
+Bundle-Activator: remotetranslateasslt.Activator
+Bundle-Vendor: com.fxb
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: remoteTranslateAsslt
+Import-Package: com.fxb.osgi.translateasslt.service,
+ org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
